@@ -3,6 +3,7 @@ Este proyecto tiene como fin binauralizar audio ambisonics implementando el mode
 
 ## Pre-requisitos
 Para poder correr el programa es necesario tener Python 3.7.4
+
 De igual manera, es necesario tener instalado las librerias mencionadas en librerias.txt
 
 Una vez descargado el repositorio e instalado las librerias mencionadas en librerias.txt, es necesario tener en cuenta la ruta de directorio para poder cargar las bases de datos
