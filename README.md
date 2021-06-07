@@ -25,7 +25,7 @@ Una vez actualizado dichos directorios podemos correr la aplicación dentro de n
 
 El Binauralizador Ambisonics format B funciona de una manera facíl y practica.
 
-Primero debemos cargar un audio Ambisonics format b (AmbiX o FuMa).
+Primero debemos cargar un audio Ambisonics format b (AmbiX o FuMa), de no ser así el programa muestra un mensaje de advertencia, solicitando al usuario seleccionar el archivo de audio correcto.
 
 Una vez cargado dicho archivo, procedemos a binauralizar este. Para ello es necesario ingresar la distancia entre oídos del usuario, seleccionar la base de datos que se desea utilizar (MIT o USB) y seleccionar la posicion donde se desea ubicar dicho audio. (Plano horizontal (Azimuth) y Plano vertical (elevación)).
 
