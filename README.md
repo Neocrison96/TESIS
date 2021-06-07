@@ -9,7 +9,7 @@ Una vez descargado el repositorio e instalado las librerias mencionadas en libre
 
 Para ello es necesario ingresar al archivo MainWindow.py y modificar la ruta de directorio al directorio local donde se descarguen dichos archivos
 
-Primero debemos actualizar la ruta de directorio del escritorio
+Primero debemos actualizar la ruta de directorio del escritorio, dentro de MainWindow.py en la función <def abrirarchivo(self):>
 
 ```
 directorio = '/Users/cristianpedraza/Desktop/'
