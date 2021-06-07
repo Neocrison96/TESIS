@@ -126,10 +126,12 @@ class VentanaPrincipal(QMainWindow):
             
       def abrirarchivo(self):
             global Mono
+
+            directorio = '/Users/cristianpedraza/Desktop/'
             
             while True:
                   try:
-                        nombre_archivo = QFileDialog.getOpenFileName(self, 'Abrir Archivo Ambisonics format B','/Users/cristianpedraza/Desktop/','Archivos WAVE (*.wav)')
+                        nombre_archivo = QFileDialog.getOpenFileName(self, 'Abrir Archivo Ambisonics format B',directorio,'Archivos WAVE (*.wav)')
                         nombre_archivo = nombre_archivo[0]
                         datos = read(nombre_archivo)
                         audios = datos[1]
