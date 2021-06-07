@@ -50,3 +50,7 @@ Por último, ingresamos el nombre del archivo nuevo a crear y damos click en el 
 <br>
 
 El archivo de audio post-procesado se encuentra en la misma carpeta donde se descargo el repositorio, es decir, dentro de la carpeta TESIS
+
+<br>
+<img src='Imagenes/archivonuevo.png' />
+<br>
