@@ -1,0 +1,5 @@
+Librerias necesarias para poder correr el programa, estas librerias deben ser intaladas por medio del terminal.
+pip install sys
+pip install PyQt5
+pip install scipy
+pip install numpy
